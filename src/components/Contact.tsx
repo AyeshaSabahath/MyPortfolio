@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Mail, MapPin, Send, CheckCircle } from 'lucide-react'
+import { Mail, MapPin, Send, CircleCheck as CheckCircle } from 'lucide-react'
 import { GithubIcon, LinkedinIcon } from './SocialIcons'
 import { useInView } from '../hooks/useInView'
 import { personalInfo } from '../data/portfolio'
