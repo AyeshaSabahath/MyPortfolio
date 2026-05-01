@@ -6,7 +6,7 @@ This project showcases my journey as an aspiring **AI/ML Engineer**, highlightin
 ---
 
 ## 🚀 Live Portfolio
-🔗 [View Portfolio](#) *(Add your deployed link here)*
+🔗 [View Portfolio](#) *(https://ayeshasabahath-mypor-vcid.bolt.host)*
 
 ---
 
